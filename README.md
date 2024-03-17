@@ -36,3 +36,7 @@ sudo apt-get install git build-essential ccache device-tree-compiler dfu-util fa
 
 ```
 We use Alphan's design (https://github.com/alphansahin/Wireless-Federated-Learning-with-Non-coherent-Over-the-Air-Computation) for our start-up foundation for Time Synchronization.
+
+Start a new project, choose the default part as below.
+![image](https://github.com/ZhihanX/Pluto_fw/assets/114545801/e61685c8-5f09-42af-8eec-e20b9086c391)
+
