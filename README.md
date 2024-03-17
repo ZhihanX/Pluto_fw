@@ -21,5 +21,10 @@ We need command below to launch Vivado:
   vivado
 
 ```
+Depending on the version of Xilinx tools, you need to make sure that you have the 32-bit libraries (the Xilinx tools are distributed as 32-bit binaries).
+```
+find /tools/Xilinx/ -name vivado -executable -type f | xargs file | grep ELF
+ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, stripped
 
+```
 We use Alphan's design (https://github.com/alphansahin/Wireless-Federated-Learning-with-Non-coherent-Over-the-Air-Computation) for our start-up foundation for Time Synchronization.
