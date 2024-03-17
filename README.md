@@ -2,9 +2,9 @@
 Record the progress of designing the synchronization IP of pluto SDR
 
 ### Environment
-Os: Ubuntu 22.04Lte
-Tools: Vivado 2021.1
-       Matlab R2021a
+Os: Ubuntu 22.04Lte <br>
+Tools: Vivado 2021.1 <br>
+       Matlab R2021a <br>
 While installing Vivado at Linux we need the packets below:
 ``` python
   sudo apt-get update
