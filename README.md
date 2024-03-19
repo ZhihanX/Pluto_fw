@@ -41,5 +41,5 @@ Start a new project, choose the default part as below.
 ![image](https://github.com/ZhihanX/Pluto_fw/assets/114545801/e61685c8-5f09-42af-8eec-e20b9086c391)
 
 ## PlutoSDR_firmware
-![image](https://github.com/ZhihanX/Pluto_fw/assets/114545801/07ce99e7-772f-450d-a0a9-ae7ccf504df4)
+![image](https://github.com/ZhihanX/Pluto_fw/assets/114545801/f34cc9a2-fdc0-431c-8846-98ff9fc9bc99)
 
