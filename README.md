@@ -43,3 +43,10 @@ Start a new project, choose the default part as below.
 ## PlutoSDR_firmware
 ![image](https://github.com/ZhihanX/Pluto_fw/assets/114545801/f34cc9a2-fdc0-431c-8846-98ff9fc9bc99)
 
+Based on the library code: https://github.com/analogdevicesinc/hdl/tree/1978df2985ce230f3a50b717accd7066609866ec/library/axi_ad9361, I try to define the rx and tx, add some module to do three things first: <br>
+1. ED send a broadcast signal called Calibration trigger to let UEs send the signal separately, then give feedback.
+2. UEs get the feedback and calibrate their clock, push ook symbols to buffer and wait for the Gradient trigger to send at the same time.
+3. Ed got the signal over the air and then use group testing method with a specific threshold to recover the binary signal.
+![image](https://github.com/ZhihanX/Pluto_fw/assets/114545801/cef0dbb6-f992-4e8c-bcd1-ba2e9c1e4199)
+
+
