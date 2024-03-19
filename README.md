@@ -1,7 +1,7 @@
 # Pluto_fw
 Record the progress of designing the synchronization IP of pluto SDR
 
-### Environment
+## Environment
 Os: Ubuntu 22.04Lte <br>
 Tools: Vivado 2021.1 <br>
        Matlab R2021a <br>
@@ -39,4 +39,7 @@ We use Alphan's design (https://github.com/alphansahin/Wireless-Federated-Learni
 
 Start a new project, choose the default part as below.
 ![image](https://github.com/ZhihanX/Pluto_fw/assets/114545801/e61685c8-5f09-42af-8eec-e20b9086c391)
+
+## PlutoSDR_firmware
+![image](https://github.com/ZhihanX/Pluto_fw/assets/114545801/07ce99e7-772f-450d-a0a9-ae7ccf504df4)
 
