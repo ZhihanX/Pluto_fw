@@ -49,4 +49,8 @@ Based on the library code: https://github.com/analogdevicesinc/hdl/tree/1978df29
 3. Ed got the signal over the air and then use group testing method with a specific threshold to recover the binary signal.
 ![image](https://github.com/ZhihanX/Pluto_fw/assets/114545801/cef0dbb6-f992-4e8c-bcd1-ba2e9c1e4199)
 
+We also need the pluto Reference Design Integration (https://analogdevicesinc.github.io/TransceiverToolbox/mkdocs/hdlrefdesigns/pluto/) to connect the pins with other part such as AXI-interface.
+![image](https://github.com/ZhihanX/Pluto_fw/assets/114545801/ccb10a06-8506-452c-bd83-3792d521763c)
+
+I am trying to figure out the HDL code of Alphan (https://github.com/alphansahin/Wireless-Federated-Learning-with-Non-coherent-Over-the-Air-Computation/tree/main/hdl/SDRIPDUT_ip_v1_0/hdl/vhdl), but I didn't find the full FPGA design flow figure which is important.
 
